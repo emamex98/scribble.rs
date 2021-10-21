@@ -34,7 +34,7 @@ func createDefaultLobbyCreatePageData() *LobbyCreatePageData {
 		Public:            "false",
 		DrawingTime:       "120",
 		Rounds:            "4",
-		MaxPlayers:        "12",
+		MaxPlayers:        "35",
 		CustomWordsChance: "50",
 		ClientsPerIPLimit: "1",
 		EnableVotekick:    "true",
